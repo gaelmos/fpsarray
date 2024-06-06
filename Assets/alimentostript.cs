@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class alimentostript : MonoBehaviour
 {
+    public int valoralimentario;
     // Start is called before the first frame update
     void Start()
     {
